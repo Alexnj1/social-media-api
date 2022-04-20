@@ -47,6 +47,7 @@
 
 
   ### Refer to the video below
+  [Testing Video](https://drive.google.com/file/d/113pEgs4XfH91pEmo3rbHWRx4bcBF-nQp/view)
   
   ## Questions
 
@@ -60,4 +61,10 @@
   ## License
   
   
-  ### This project is licensed under the MIT open source license. Visit [Open Source Initiative](http://www.opensource.org/licenses/MIT) for the full license documentation.
+  ### This project is licensed under the MIT open source license. Visit [LICENSE](/LICENSE) for the full license documentation.
+  
+  ## Screenshots
+  ![image](https://user-images.githubusercontent.com/93218601/164280259-78786a90-b068-4886-a293-05630b6b3272.png)
+  ![image](https://user-images.githubusercontent.com/93218601/164280330-5da7fb98-1c03-4cb3-aace-713ecaa12ea3.png)
+  
+
